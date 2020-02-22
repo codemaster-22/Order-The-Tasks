@@ -1,6 +1,11 @@
 #include "../include/Graph.h"
 #include "../include/Node.h"
 
+void Graph::Graph(int x)
+{
+    n = x;
+}
+
 void Graph::sort()
 { 
     for(auto it:arr)

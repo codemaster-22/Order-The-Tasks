@@ -1,6 +1,6 @@
 # Order-The-Tasks
 Problem statement:
--You are given the set of tasks such that some tasks are dependent on the other tasks. If some task
+You are given the set of tasks such that some tasks are dependent on the other tasks. If some task
 is dependent on the another task, then that task has to be completed before completing the
 dependent task. For example, if task 0 is dependent on task 1 Then task 1 has to be finished before finishing the task 0. So, given the number of tasks and
 dependencies among them, this assignment expects you to find the following:
